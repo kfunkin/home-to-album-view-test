@@ -1,0 +1,26 @@
+#logo {
+
+  position:absolute;
+  mix-blend-mode: darken;
+  opacity: 0.7;
+}
+
+#overlay1 {
+  position:absolute;
+  mix-blend-mode: darken;
+  opacity: 0.5;
+
+}
+#playbutton {
+  position:absolute;
+  top: 400px;
+  left: 140px;
+
+}
+
+body {
+background-color: #FEF5A0;
+}
+
+
+}
